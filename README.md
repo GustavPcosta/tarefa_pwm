@@ -44,3 +44,7 @@ Este projeto utiliza um Raspberry Pi Pico para controlar um servo motor e um LED
 ## Autor
 Desenvolvido por Gustavo para aplicações em sistemas embarcados com Raspberry Pi Pico.
 
+
+## Link para o vídeo
+https://youtube.com/shorts/lI53DXXAKjM?feature=share
+
