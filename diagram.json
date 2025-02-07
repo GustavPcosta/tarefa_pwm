@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "author": "Uri Shaked",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": { "builder": "pico-sdk" }
+    },
+    { "type": "wokwi-servo", "id": "servo1", "top": -50, "left": 211.2, "attrs": {} }
+  ],
+  "connections": [
+    [ "pico:GP0", "$serialMonitor:RX", "", [] ],
+    [ "pico:GP1", "$serialMonitor:TX", "", [] ],
+    [ "servo1:V+", "pico:3V3", "green", [ "h-9.6", "v201.7" ] ],
+    [ "servo1:GND", "pico:GND.8", "black", [ "h0" ] ],
+    [ "servo1:PWM", "pico:GP22", "yellow", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
