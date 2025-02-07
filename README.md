@@ -47,4 +47,6 @@ Desenvolvido por Gustavo para aplicações em sistemas embarcados com Raspberry 
 
 ## Link para o vídeo
 https://youtube.com/shorts/lI53DXXAKjM?feature=share
+ou
+https://www.canva.com/design/DAGebHZmToo/sI5a_M6Kst2DobCkcL5Szw/watch?utm_content=DAGebHZmToo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7b82b5a827
 
